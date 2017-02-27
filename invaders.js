@@ -429,7 +429,7 @@ window.addEventListener("DOMContentLoaded", function () {
     const reload = 1000;            // 敵が弾を撃ってくる頻度
 
     const specialwidth = 5;         // 特別な敵の横への速さ
-    const specialcount = 38;        // 特別な敵が出てくる残りの敵の数
+    const specialcount = 20;        // 特別な敵が出てくる残りの敵の数
     const specialpoint = 300;       // 特別な敵の得点
 
 
